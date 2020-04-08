@@ -12,7 +12,6 @@
 [Лабораторная работа №8][11] <br>
 [Лабораторная работа №9][12] <br>
 [Лабораторная работа №10][13] <br>
-
 [Лабораторная работа №11(Пока что не добавлена, ссылка не работает)][14] <br>
 [Лабораторная работа №12(Пока что не добавлена, ссылка не работает)][15] <br>
 [Лабораторная работа №13(Пока что не добавлена, ссылка не работает)][16] <br>
@@ -35,6 +34,7 @@
 [Лабораторная работа №31(Пока что не добавлена, ссылка не работает)][32] <br>
 [Лабораторная работа №32(Пока что не добавлена, ссылка не работает)][33] <br>
 [Лабораторная работа №34(Пока что не добавлена, ссылка не работает)][34] <br>
+
 [Лабораторная работа №35(Пока что не добавлена, ссылка не работает)][35] <br>
 [Лабораторная работа №36(Пока что не добавлена, ссылка не работает)][36] <br>
 [Лабораторная работа №39(Пока что не добавлена, ссылка не работает)][37] <br>
@@ -52,7 +52,6 @@
 [11]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr8
 [12]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr9
 [13]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr10
-
 [14]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr11
 [15]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr12
 [16]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr13
@@ -69,11 +68,13 @@
 [27]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr24
 [28]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr25
 [29]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr26
+
 [30]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr28
 [31]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr30
 [32]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr31
 [33]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr32
 [34]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr34
+
 [35]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr35
 [36]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr36
 [37]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr39
