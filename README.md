@@ -13,6 +13,34 @@
 [Лабораторная работа №9][12] <br>
 [Лабораторная работа №10][13] <br>
 
+[Лабораторная работа №11(Пока что не добавлена, ссылка не работает)][14] <br>
+[Лабораторная работа №12(Пока что не добавлена, ссылка не работает)][15] <br>
+[Лабораторная работа №13(Пока что не добавлена, ссылка не работает)][16] <br>
+[Лабораторная работа №14(Пока что не добавлена, ссылка не работает)][17] <br>
+[Лабораторная работа №15(Пока что не добавлена, ссылка не работает)][18] <br>
+[Лабораторная работа №16(Пока что не добавлена, ссылка не работает)][19] <br>
+[Лабораторная работа №17(Пока что не добавлена, ссылка не работает)][20] <br>
+[Лабораторная работа №18(Пока что не добавлена, ссылка не работает)][21] <br>
+[Лабораторная работа №19(Пока что не добавлена, ссылка не работает)][22] <br>
+[Лабораторная работа №20(Пока что не добавлена, ссылка не работает)][23] <br>
+[Лабораторная работа №21(Пока что не добавлена, ссылка не работает)][24] <br>
+[Лабораторная работа №22(Пока что не добавлена, ссылка не работает)][25] <br>
+[Лабораторная работа №23(Пока что не добавлена, ссылка не работает)][26] <br>
+[Лабораторная работа №24(Пока что не добавлена, ссылка не работает)][27] <br>
+[Лабораторная работа №25(Пока что не добавлена, ссылка не работает)][28] <br>
+[Лабораторная работа №26(Пока что не добавлена, ссылка не работает)][29] <br>
+
+[Лабораторная работа №28(Пока что не добавлена, ссылка не работает)][30] <br>
+[Лабораторная работа №30(Пока что не добавлена, ссылка не работает)][31] <br>
+[Лабораторная работа №31(Пока что не добавлена, ссылка не работает)][32] <br>
+[Лабораторная работа №32(Пока что не добавлена, ссылка не работает)][33] <br>
+[Лабораторная работа №34(Пока что не добавлена, ссылка не работает)][34] <br>
+[Лабораторная работа №35(Пока что не добавлена, ссылка не работает)][35] <br>
+[Лабораторная работа №36(Пока что не добавлена, ссылка не работает)][36] <br>
+[Лабораторная работа №39(Пока что не добавлена, ссылка не работает)][37] <br>
+[Лабораторная работа №46(Пока что не добавлена, ссылка не работает)][38] <br>
+
+
 
 [4]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr1
 [5]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr2
@@ -24,6 +52,32 @@
 [11]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr8
 [12]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr9
 [13]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr10
+
+[14]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr11
+[15]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr12
+[16]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr13
+[17]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr14
+[18]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr15
+[19]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr16
+[20]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr17
+[21]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr18
+[22]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr19
+[23]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr20
+[24]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr21
+[25]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr22
+[26]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr23
+[27]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr24
+[28]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr25
+[29]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr26
+[30]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr28
+[31]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr30
+[32]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr31
+[33]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr32
+[34]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr34
+[35]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr35
+[36]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr36
+[37]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr39
+[38]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr46
 
 
 *****
