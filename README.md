@@ -11,6 +11,8 @@
 [Лабораторная работа №7][10] <br>
 [Лабораторная работа №8][11] <br>
 [Лабораторная работа №9][12] <br>
+[Лабораторная работа №10][13] <br>
+
 
 [4]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr1
 [5]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr2
@@ -21,6 +23,7 @@
 [10]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr7
 [11]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr8
 [12]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr9
+[13]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr10
 
 
 *****
