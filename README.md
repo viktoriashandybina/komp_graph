@@ -2,9 +2,32 @@
 *****
 ## Шандыбина Виктория
 ## ИВТ, 3 курс
+*****
+## 5 СЕМЕСТР
+
+## ЛАБОРАТОРНЫЕ РАБОТЫ В AUTOCAD
+
+[Общий чертеж][39] <br> 
+[Индивидуальный череж 2D][40] <br> 
+[Индивидуальный череж 3D][41] <br> 
+
+[39]: https://github.com/viktoriashandybina/komp_graph/tree/master/Autocad/1
+[40]: https://github.com/viktoriashandybina/komp_graph/tree/master/Autocad/2
+[41]: https://github.com/viktoriashandybina/komp_graph/tree/master/Autocad/3
 
 *****
- 
+
+## СЕРТИФИКАТЫ
+
+[Программирование Autocad][42] <br> 
+[Проектирование Autocad][43] <br>
+
+[42]: https://github.com/viktoriashandybina/komp_graph/blob/master/Autocad/Sert/Nekommerch-2-1260766-ORF.pdf
+[43]: https://github.com/viktoriashandybina/komp_graph/blob/master/Autocad/Sert/Nekommerch-2-1260859-ORF.pdf
+
+*****
+## 6 СЕМЕСТР
+
 ## НАРОДНЫЙ УЧЕБНИК ПО OPENGL  
 
 [Лабораторная работа №1][4] <br>
