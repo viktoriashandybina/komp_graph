@@ -15,7 +15,7 @@
 [40]: https://github.com/viktoriashandybina/komp_graph/tree/master/Autocad/2
 [41]: https://github.com/viktoriashandybina/komp_graph/tree/master/Autocad/3
 
-*****
+***
 
 ## СЕРТИФИКАТЫ
 
@@ -109,7 +109,7 @@
 [38]: https://github.com/viktoriashandybina/komp_graph/tree/master/Lr46
 
 
-*****
+****
 
 ## СЕРТИФИКАТЫ
 
